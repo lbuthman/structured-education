@@ -1,1 +1,5 @@
+Getting Started
 
+- Iterate conceptual and practice methods
+  -> have to start with why / big picture
+  -> refine via practice and record process
