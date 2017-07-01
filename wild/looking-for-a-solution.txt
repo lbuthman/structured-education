@@ -1,1 +1,9 @@
+When looking for a particular solution.
 
+0. prepare a simple plaintext document to record your adventure
+1. slow down and refine exactly what you want to know
+2. read each item and select the first match
+3. be prepared for stuff that goes over your head, new terms and other intimidating knowledge blasts
+	— make a note of the foreign terms, technologies, etc.
+	— be patient and fearless, the solution to your problem may be buried and require some unpacking. This is normal, 
+  no reason to feel discouraged or that you aren’t ready (not smart enough, blah blah blah).
