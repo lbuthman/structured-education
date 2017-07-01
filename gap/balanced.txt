@@ -1,1 +1,6 @@
-
+July 1, 2017
+  - Conceptual vs. Practical 
+    -> Conceptual pushes forward, exposure to ideas and approaches not yet imagined
+    -> Practical makes conceptual a reality, uncovering all the dirty details (good quote in agile-requirements
+    I believe)
+    -> only Conceptual results in no real skill, only Practical limits the field of vision
