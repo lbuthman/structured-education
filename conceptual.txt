@@ -1,1 +1,35 @@
+Getting Started
 
+- Some material is easier to get a conceptual understanding while others take more effort. I have two approaches
+I like to use for the different spectrums: Overview and Notes.
+
+- An easy way to tell whether you need an Overview read through is the speed at which you can read the material
+and comprehend it. The slower, more distracted the reading, the more repetition of sentences or paragraphs, the
+more you feel lost or confused, the more the need you need an Overview. If your reading comprehension speed is
+closer to what it is when reading a novel, you can go straight to Notes.
+
+Overview Method
+
+- In this approach, you don't worry about taking an information away. It is too early to in the comprehension
+process to take notes for Spaced Repetition or Deliberate Practice. 
+
+- The goal is to get through the material, the article, the chapter, or the book once. Even if you don't remember
+much about it, you have at least completed it one time and have a little familiarity with the structure and verbage.
+
+- One trick I like to use is to copy the chapter subsections from the Table of Contents (given it is provided) or
+go through the chapter and copy down each subsection heading (if provided). This gives me an idea of the structure
+and what to expect as I slog my way through material that is new, terse, or difficult.
+
+- Another trick I like is to read for word comprehension, not even sentence comprehension. In some technical writing,
+many words we use every day become the jargon in a given field. This can be really confusing and lull you into a
+hypnotic state of mind. You know what those words mean, but they don't mean what you think they mean (Pricess Bride).
+In this situations, I slow way down and check off each word in my mind to make sure I know what it means. This
+can be a good time to note any words or terms that you don't know. You don't even need to worry about defining them
+yet, since it can break your flow. Just put them in a Parking Lot and come back later. This type of reading is like
+mental hiking uphill. It can be exhausting but will get you through a tough section. After getting through it, you
+will likely find the writing easier on the second and third time.
+
+Notes Method
+
+- In this approach, you are understanding what you are reading. When you create understandings (Chunks), you can
+now commit these to memory via Spaced Repetition or Deliberate Practice.
