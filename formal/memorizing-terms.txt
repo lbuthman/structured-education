@@ -1,1 +1,11 @@
+Getting Started
+  - we live in a day and age when information filtering is absolutely essential. The good side of the filter
+  is when it removes things off topic and not relevant. The bad side of the filter is when it prematurely
+  overlooks something that is helpful. 
+  - what is relevant will not be the same for everyone and is very much dependent on your experience level and
+  foundation. 
+  - it is really hard to know what you need to know on the first pass.
+  - if you decide not to learn a term, make a note of why you choose to skip it and where it was found. You can
+  always circle back and add it in if it was a mistake.
 
+Formatting Information -> https://www.supermemo.com/en/articles/20rules
