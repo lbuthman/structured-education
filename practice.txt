@@ -1,1 +1,16 @@
+Getting Started
 
+- You don't always know the value of practice problems. For me, they can be easy to skip, especially when
+I discount them, question their value, or believe I already have it figured out. The problem with this is
+that the distance from conceptual to practical is very difficult to estimate correctly. Something seemingly
+simple can have all kinds of things embedded in it that take a long time to untangle and straighten out.
+
+- Therefore, just do it when it comes to practice problems. After completed, rate the difficulty and decide
+if the practice problem should become an exercise (something to repeat a few times).
+
+- If there is a time constraint, make note why you must skip a problem. If you get stuck in the future, go 
+back to what you skipped because there might be some value there.
+
+Creating Practice Problems
+
+- You won't always be fortunate to have practice problems laid in your lap and creating them can be difficult.
