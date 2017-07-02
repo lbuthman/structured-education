@@ -1,1 +1,12 @@
+- All of the technologies and frameworks out there arose because of some benefit they provided, or problem
+they solved. Most books discussing these technologies and frameworks spend the preface, first chapter, or
+each chapters intro on explaining this topic.
 
+- I have found that sometimes I am not able to fully appreciate the benefit upfront. Because I didn't spend
+time learning x I don't really understand the benefit of y.
+
+- With this in mind, there must be some filtering during these sections. In addition, if you ever feel a little
+lost, it can be good to revisit these sections.
+
+- It would be cool to do a genealogy of technology that addresses the progression and extension of each
+predecessor.
