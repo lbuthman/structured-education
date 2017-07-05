@@ -1,1 +1,19 @@
+One difficulty I have noticed is that when reading a book, article, or other documentation, has to do with expectations. I
+usually have a formed goal or hope of what I expect to find, but more often than not, the material is not presented in a way
+that targets that goal. This is fairly obvious once brought up since the author will invariably have different goals then
+myself. However, when it comes to challenging material, material where my readin comprehension is plodding and stressing, I 
+generally fall into one of two traps.
+  1) I find myself more easily lost in the weeds. I lose the thread of my goal and get distracted in things better addressed
+  at a later time. This is more the case when I am seeking a comprehensive understanding of a given framework.
+  2) I find myself barely reading, skipping words, sentences, paragraphs, chapters, and articles as soon as I think they might
+  not meet the needs of my goal. This sort of filtering can be ok in some situations, but in tricky ones, it can make an
+  answer or understanding completely elusive. 
 
+Possible Solutions
+
+  - Template what the goal or hope is. For example, if looking to get starting with a Framework, write out what you hope to do
+  with it first. Then as you read through the material, try to get a high level understanding of the section. Once it is
+  understood, reorganize it in terms of your template. If it meets the criteria, mark it as such; if it is an elboration of
+  a concept or goes off track, mark it as such and mark what it is. Continue as needed until the template is completed, at
+  which time you can then get to trying it out. If the material only addresses part of your template, then you will know it
+  and be able to consult other sources before getting into the weeds.
