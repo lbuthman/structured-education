@@ -17,3 +17,19 @@ Possible Solutions
   a concept or goes off track, mark it as such and mark what it is. Continue as needed until the template is completed, at
   which time you can then get to trying it out. If the material only addresses part of your template, then you will know it
   and be able to consult other sources before getting into the weeds.
+  
+  - Avoid reading technical documents like novels or other books. This might be obvious to many people, but it tripped me up
+  for a long time. I want to be thorough and comprehensive in my understanding! But this is the wrong way to approach these
+  kinds of things. Frameworks are big. Technology is big. You get to understanding and mastery through mini-explorations,
+  small quests, and the scratching of many itches. Therefore, the more you understand your itch or what adventure you wish to
+  seek (i.e. what problem you hope to solve or what you hope to do with a certain technology), the greater the likelihood
+  that you can sustain your path, clarifying your vision to make it to the end. That type of goal is very personal and must
+  be treated as such. No book or article or training website can ever address it exactly. If your goals are purely technical,
+  then it might be a different story; I imagine these types of people's reading comprehension is outstanding for technical
+  documents and resemebles the speed of reading a novel. I say imagine in the previous sentece because this is not me, and
+  is therefore not the audience I write to. 
+
+<noteToSelf> I write to people who need technology to solve a problem but may have backgrounds in other areas. People like me.
+They have better soft skills, more Humanities oriented individuals. But to do things in the world, you have to have the
+hard skills too. I believe many books and articles are oriented to hard skill (Sciences) oriented people that have technical mastery, 
+but most likely have poorly formed soft skills (Humanities).
