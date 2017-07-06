@@ -1,1 +1,44 @@
+Starting Point
 
+Well understood topics are never complicated; if they seem complicated, they are not well understood. In
+contrast, topics can be complex. So while a topic is complex, that doesn't mean that it is complicated.
+
+When a complex topic needs to be explained, it can appear complicated even if the person explaining it does
+not view it as being complicated. That is because a complex topic certainly requires a foundation of topics,
+explanations, and lineage that gradually moves a person to an eventual explanation. If done correctly with
+mastery and patience, any complex topic can be understood step by step, built on simple yet increasingly
+complex understandings.
+
+Talking In Code
+
+A funny play on words occurred to me recently and surprised me by elucidating a truth. "When it comes to 
+talking about coding (computer programming), we are talking in code." Every discipline, every science, every
+field seeks to say something or do something with our world. To accomplish something, a language and framework
+of the world is constructed. This allows for more precise communication because we can elevate language
+and package concepts into a few words. These symbols of understanding become the code and coding of the 
+world.
+
+Not Getting Lost
+
+The more technical the discipline, the more varied the ways to say something or something with our world.
+This can lead to complication in understanding because it can focus a person's view of the world to the
+differences in application and variance of tools while obstructing the similarities.
+
+This feature complexity is routinely overcome by people gaining mastery in a various disciplines. These
+people can see through the clutter and strike at the center of concepts, gaining solid understandings
+and technical prowess. Many others cannot sort through it all nor see the complexity for what it is, and
+are lead to conclude that this discipline is just not for them.
+
+A Pi Shaped World
+
+Gone are the days when one solid specialization of discipline is sufficient. Today's larger world requires
+people to have at least one solid specialization and then several supporting skills (so called "T" shaped).
+This is seen in technology quite easily with Full Stack Developers and Agile Teams. These positions require
+one to have expansive knowledge about numerous fields. This is a far cry from the siloed approaches of the
+past.
+
+It is now even being said that "T" shaped is not enough. Instead of just one solid specialization, you
+need two along with several supporting skills. This is said to be Pi shaped. If this is the case, then it
+critical that the teaching of our various disciplines keep pace, allowing students to quickly comprehend
+multiple skills in cross-disciplines. This requires a diminution of complication and a simple view of
+complexity.
