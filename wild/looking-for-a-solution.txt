@@ -7,3 +7,23 @@ When looking for a particular solution.
 	— make a note of the foreign terms, technologies, etc.
 	— be patient and fearless, the solution to your problem may be buried and require some unpacking. This is normal, 
   no reason to feel discouraged or that you aren’t ready (not smart enough, blah blah blah).
+
+When reading in a book
+
+0. know what your goal is in no uncertain terms, it should be really clear
+1. find a book or chapter in a book that looks like it will address your goal
+2. be prepared for all kinds of distractions, rabbit holes and unnecessary details
+	-- it may not be unnecessary in reality, but depending on your goal it can be. For example, if you want to deploy
+	your webapp to a public host, you might encounter a lot of history and advice for the dev ops world. But if you
+	are really just app dev oriented, you don't necessarily need to know the best way to optimize a webapp server, etc.
+	And even if you are interested in knowing that world in depth at some point, it is a real distraction if your
+	goal is to just deploy your webapp for now. 
+3. keep things simple, parse out what you need now, organize what would be cool to do later, or just label anything you k
+need to filter. By labeling and taking a moment to put each piece in its place, you will develop a stronger understanding
+of the book you have in hand and actually strengthen your filter for a particular subject. Placing concepts and terms in
+their proper place allows you to keep your wits as you struggle through the rubble to find what really matters.
+4. once you have completed your search, verify that you have what you need to complete your goal. If not, now is a good
+time to find another book or source and iterate through the above steps.
+5. after you have what you think you need, get down to it and carry things through. Don't be surprised to find gaps that
+have to be addressed through less formal sources like websites or help-desk contacts. Record everything you encounter to
+fully flesh out the solution, then you will have something complete and useful to other people as well as yourself.
