@@ -23,4 +23,5 @@ Approach
   from the community and popularity.
   - Community members can create their own paths, follow someone else's, diverge as needed, and submit what has
   worked for them.
+  - Provide a self-evident learning process that builds on itself to teach and master the learning system.
 
