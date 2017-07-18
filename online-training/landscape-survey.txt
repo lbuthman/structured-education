@@ -1,1 +1,34 @@
+1. PluralSight
+  -- trial started 7-18-17
+  -- very boring videos, dull voice over inane PowerPoint presentations
+  -- like assessment quiz
+  -- have not seen any projects
+  -- <todo>take quiz for course after completing</todo>
+  -- locks you in to a full year membership, pricing sits at $25 per month
+  -- the information might be pretty good, even though the presentation is poor
+  -- excellent and diverse course offerings covering just about everything I am interested in and more
+  
+2. Treehouse
+  -- not a log of courses for Java ecosystem
+  -- lots of content related to PHP and WordPress, might be a better training program for that someday
+  -- also lots for mobile dev, definitely something I am interested in for the future
+  -- I believe they have exercises and little tests which would be nice
 
+3. Lynda
+  -- pretty much has everything with a range of video engagement quality
+  -- I haven't seen any exercises or projects or anything of the sort
+  -- free for me and many who have library cards
+  
+4. Codeacademy
+  -- purports to have quizs, projects, and learning advisors!
+  -- not sure what the personalized learning plan is but I like the sound of it
+  -- $20/month, good price and 14 day cancellation period
+  -- super light course load, seems to follow quality over quantity approach
+  
+5. SkillShare
+  -- not too excited about the course catalog, but still need to search premium content during 30-day trial
+  -- looks like the poor man's lynda.com
+  
+6. Egghead
+  -- benefits of pro membership are really odd and vague
+  -- geared toward JS and that ecosystem, will be good to revist when ready
