@@ -1,1 +1,6 @@
+- video and instruction quality, think Gimlet for education, courses with thought and care combined with
+Harvard CS50 interest factor and concept sequencing
 
+- lots of check points to ensure comprehension, like Coursera, mixed with actually coding, like Code Academy
+
+- projects like what is offered from Udacity
