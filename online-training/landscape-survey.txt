@@ -28,6 +28,8 @@
 5. SkillShare
   -- not too excited about the course catalog, but still need to search premium content during 30-day trial
   -- looks like the poor man's lynda.com
+  ** basically Etsy meets Youtube meets Lynda.com. No mechanism to ensure course quality, merely a platform
+  for 3rd party "teachers" to post videos.
   
 6. Egghead
   -- benefits of pro membership are really odd and vague
