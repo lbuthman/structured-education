@@ -7,15 +7,15 @@ Starting Points / Assumptions / Opinions
   - informal education is criticized for not being systematic or complete
   
 Personally
-  - I have been frustrated learning in both kingdoms.
+  - I have been frustrated learning in both kingdoms.<br/>
     -- The Wild provides an allure of up-to-date information, but technology moves to quickly that a book last 
     year can already be out of date today. There are constantly new and better ways to do things which is exactly
-    what is required for the real-world. Truth be told, it is really hard to teach.
+    what is required for the real-world. Truth be told, it is really hard to teach.</br>
     -- The foundation provided by Universities is part of the picture, but not the whole. The best that they have
     to offer can be extracted and opened up.
     
 Approach
-  - Developed an abstracted approach to learning new technologies and frameworks. This will be a meta-educational
+  - Develope an abstracted approach to learning new technologies and frameworks. This will be a meta-educational
   approach that systematically teaches the required skills for surviving in the Wild.
   - Consolidate approaches to go from very beginner to expert programmer. Instead of creating one path, each
   phase or component will be thoroughly refined over time, informed by community members, so that they can stand
