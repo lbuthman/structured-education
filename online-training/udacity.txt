@@ -1,1 +1,31 @@
+Why I Chose Udacity
+  
+  - After completing my survey of the online training landscape, I asked myself a question: what do
+  I want? I quickly took some notes (found in this folder) and stopped after I remembered Udacity.
+  What came to mind was the GitHub course and the Intro to Python course.
+  
+  - I have now actually choosen Udacity twice. When I first began putting extra effort into learning
+  GitHub back in Jan 2017, I found numerous resources. I looked at every single one of them, tried most
+  and settled on Udacity. The course was fun, funny, zero entry that transitioned to depth, made me take
+  breaks, and took a hands on approach.
+  
+  - Getting back to my first point, once I realized what I wanted and expressed it, I realized that
+  this is exactly what Udacity is doing. The only reason I didn't consider them at first was because
+  the courses don't involve Java and associated frameworks in Java's ecosystem. However, once I broadened
+  my mind to see myself as a software developer in general, I could see the benefit of learning the
+  Python ecosystem as a way to deepend the work I need to do in Java. The underlying concepts and
+  technology might very well be similar enough that they can be transitioned as needed.
+  
+Initial Experience - The First Seven Days
 
+  - During the first seven days, I have received between 7 to 10 emails and Mentorship check-ins to see
+  how I am doing and if I have any questions or needs. To put this in context, I have completed 24 credits 
+  of 33 required for a Master's in Computer Information Systems. I have spent 5 semesters attending online 
+  courses. In that two and a half year time span, my professors have communicated with me about the
+  number of times Udacity has already. One professor flat out ignored any message I sent him and I had
+  him for two courses. The responses I did receive from those professors were generally vague and cold,
+  with one professor being the exception. With this in mind, I am very impressed with the Udacity staff
+  and greatly appreciate them reaching out. I feel welcome and connected.
+  
+  - The courses have continued to be strong and the quizzes have been helpful. I have completed the
+  movie website and am hoping to start on the portfolio project in the coming week.
